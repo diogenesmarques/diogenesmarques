@@ -20,6 +20,6 @@ I first started studying development back in 2018 when I was introduced to HTML.
 
 ### 📊 Stats
 
-[![DiogenesMarques's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogenesmarques)](https://github.com/anuraghazra/github-readme-stats)
+![DiogenesMarques's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogenesmarques&count_private=true&title_color=faf333&text_color=faf333&bg_color=be1918&border_color=faf333)
 
 #
