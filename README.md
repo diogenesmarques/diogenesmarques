@@ -2,8 +2,6 @@
 
 **`fullstack dev | digital entrepeneur`**
 
-I first started studying development back in 2018 when I was introduced to HTML. Since then all my knowledge comes from my autodidactism. All of my codes are all built from the ground up, most of them are personal projects or freelance jobs. I am also a huge fan of One Piece :p
-
 ---
 
 ### 🧰 Main Languages and Tools
