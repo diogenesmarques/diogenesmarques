@@ -1,6 +1,6 @@
 # ☭ Diogenes Marques
 
-**`fullstack dev | digital entrepeneur`**
+**`web & mobile development | linux | vim`**
 
 ---
 
