@@ -1,6 +1,6 @@
 # ☭ Diogenes Marques
 
-**`web & mobile development | linux | vim`**
+**`FOSS | linux | vim`**
 
 ---
 
