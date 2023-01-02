@@ -1,4 +1,4 @@
-# ☭ Dio Risso
+# ☭ Dio
 
 **`FOSS | linux | vim`**
 
