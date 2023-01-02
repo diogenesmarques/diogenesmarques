@@ -1,4 +1,4 @@
-# ☭ Diogenes Marques
+# ☭ Dio Risso
 
 **`FOSS | linux | vim`**
 
